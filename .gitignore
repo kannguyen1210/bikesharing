@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+201908_cb_NYC_tripdata_updated.csv
+
+201908-citibike-tripdata.csv
+
+.DS_Store
+
+.201908-citibike-tripdata.csv.icloud
