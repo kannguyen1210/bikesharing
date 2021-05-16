@@ -10,35 +10,35 @@ For this analysis, I’ll use Pandas to change the "tripduration" column from an
 Finally, I’ll add these new visualizations to the two you created in this module to create a Tableau Story
 
 # Results
-For an interactive experience, please find the Tableau story [here](https://public.tableau.com/profile/giang.nguyen5384#!/vizhome/challenge_16212028461750/NYCCitibike)
+For an interactive experience, please find the Tableau story [here](https://public.tableau.com/profile/giang.nguyen5384#!/vizhome/challenge_16212028461750/NYCCitibike).
 
 ## 1. August Peak Hours
-![alt text](/images/August Peak Hours.png)
+![alt text](/images/August_Peak_Hours.png)
 
 
 
 ## 2. Top Sharing Locations
-![alt text](/images/Top Sharing Location.png)
+![alt text](/images/Top_Sharing_Location.png)
 
 
 ## 3. Checkout Times for Users
-![alt text](/images/Checkout Times for Users Viz.png)
+![alt text](/images/Checkout_Times_for_Users.png)
 
 
 ## 4. Checkout Times by Gender
-![alt text](/images/Checkout Times by Gender Viz.png)
+![alt text](/images/Checkout_Times_by_Gender.png)
 
 
 ## 5. Trips by Weekday for Each Hour
-![alt text](/images/Trips by Weekday for Each Hour Viz.png)
+![alt text](/images/Trips_by_Weekday_for_Each_Hour.png)
 
 
 ## 6. Trips by Gender (Weekday per Hour)
-![alt text](/images/Trips by Gender (Weekday per Hour) Viz.png)
+![alt text](/images/Trips_by_Gender.png)
 
 
 ## 7. User trips by Gender by weekday
-![alt text](/images/User Trips by Gender by Weekday Viz.png)
+![alt text](/images/Trips_by_Gender_by_Weekday.png)
 
 
 # Summary
